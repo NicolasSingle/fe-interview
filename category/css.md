@@ -2,8 +2,73 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.25
+> 最新：2019.10.20
 
+- [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
+- [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
+- [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)
+- [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
+- [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
+- [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
+- [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
+- [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)
+- [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
+- [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
+- [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
+- [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
+- [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
+- [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
+- [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
+- [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
+- [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
+- [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)
+- [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
+- [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
+- [css的linear-gradient有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1276)
+- [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
+- [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
+- [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
+- [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
+- [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
+- [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
+- [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
+```html
+<style>
+.red {color:red;}
+.green {color:green;}
+</style>
+
+<div class="red green">第一行：颜色是什么？</div>
+<div class="green red">第二行：颜色是什么？</div>
+```
+- [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)
+- [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
+- [外边距重叠是什么？重叠的结果是什么？怎么防止外边距重叠？](https://github.com/haizlin/fe-interview/issues/1226)
+- [css中的border:none和border:0px有什么区别？](https://github.com/haizlin/fe-interview/issues/1222)
+- [如何写高效的CSS？](https://github.com/haizlin/fe-interview/issues/1218)
+- [如何做图片预览，如何放大一个图片？](https://github.com/haizlin/fe-interview/issues/1214)
+- [举例说明在css3中怎么实现背景裁剪？](https://github.com/haizlin/fe-interview/issues/1210)
+- [如何使用CSS的多列布局？](https://github.com/haizlin/fe-interview/issues/1206)
+- [请说说CSS3实现文本效果的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1202)
+- [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)
+- [说说响应式设计(responsive design)和自适应设计(adaptive design)的区别？](https://github.com/haizlin/fe-interview/issues/1183)
+- [什么是脱离文档流？有什么办法可以让元素脱离标准的文档流？](https://github.com/haizlin/fe-interview/issues/1179)
+- [请问background-attachmentn属性有什么用途？](https://github.com/haizlin/fe-interview/issues/1175)
+- [移动页面底部工具条有3个图标，如何平分？在设置边框后最后一个图标掉下去了怎么办？](https://github.com/haizlin/fe-interview/issues/1170)
+- [css怎样使每个字符宽度一样？](https://github.com/haizlin/fe-interview/issues/1166)
+- [说下你对background-size的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1162)
+- [如何自定义radio按钮的样式](https://github.com/haizlin/fe-interview/issues/1158)
+- [word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153)
+- [说说你对字母"X"在CSS中有什么作用？](https://github.com/haizlin/fe-interview/issues/1149) 
+- [CSS3中的transition是否可以过渡opacity和display？](https://github.com/haizlin/fe-interview/issues/1145) 
+- [说下background-color:transparent和opacity:0的区别是什么？](https://github.com/haizlin/fe-interview/issues/1141) 
+- [你有用过IE css的expression表达式吗？说说你对它的理解和它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1137) 
+- [z-index有时不起作用的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1133) 
+- [你有了解css计数器（序列数字字符自动递增）吗？如何通过css的content属性实现呢？](https://github.com/haizlin/fe-interview/issues/1129) 
+- [说说你对css的will-change属性的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1125) 
+- [transition、animation、transform三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1121) 
+- [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
+- [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113) 
 - [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
 - [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
 - [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1101) 

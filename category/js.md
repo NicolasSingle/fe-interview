@@ -2,8 +2,81 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.25
+> 最新：2019.10.20
 
+- [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
+- [当用户刷新网页时，js的请求有哪些地方会有缓存处理呢？](https://github.com/haizlin/fe-interview/issues/1405)
+- [onload事件和domcontentloaded哪个先执行呢？](https://github.com/haizlin/fe-interview/issues/1385)
+- [说下你对面向对象的理解](https://github.com/haizlin/fe-interview/issues/1381)
+- [在js中函数返回多个值有哪些方法？](https://github.com/haizlin/fe-interview/issues/1377)
+- [为什么说js是弱类型语言，它的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/1373)
+- [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
+- [有什么方案可以提高无限滚动列表的性能？](https://github.com/haizlin/fe-interview/issues/1365)
+- [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
+- [你知道什么是三元表达式吗？“三元” 表示什么意思？使用三元表达式应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1343)
+- [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
+- [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
+- [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
+- [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
+- [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
+- [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
+- [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
+- [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
+- [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
+- [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
+- [你了解什么是AOP吗？它的作用是什么？举个例子](https://github.com/haizlin/fe-interview/issues/1277)
+- [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
+- [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
+- [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
+- [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
+- [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
+- [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
+- [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
+- [在js中attribute和property的区别是什么？](https://github.com/haizlin/fe-interview/issues/1235)
+- [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
+- [举例说明js拖拽用到的事件有哪些？](https://github.com/haizlin/fe-interview/issues/1227)
+- [用原生JS封装插件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1223)
+- [用js模拟实现微信抢红包的算法，并说明你的思路](https://github.com/haizlin/fe-interview/issues/1219)
+- [如何实现锁定网页、密码解锁的效果？说说你的方法和步骤是什么？](https://github.com/haizlin/fe-interview/issues/1215)
+- [你知道1和Number(1)的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1211)
+- [说说CORS为何要区分预检请求和简单请求呢？](https://github.com/haizlin/fe-interview/issues/1207)
+- [实现异步编程有哪些方式？推荐用哪种？](https://github.com/haizlin/fe-interview/issues/1203)
+- [为什么说js是单线程，而不是多线程呢？](https://github.com/haizlin/fe-interview/issues/1199)
+- [使用js实现摩斯密码的加密和解密](https://github.com/haizlin/fe-interview/issues/1184)
+- [请使用原生的js实现斐波那契数列](https://github.com/haizlin/fe-interview/issues/1180)
+- [阻止事件的默认行为有哪些？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1176)
+- [请举例说明动态操作DOM的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1171)
+- [原生Math的方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1167)
+- [什么是词法分析？请描述下js词法分析的过程？](https://github.com/haizlin/fe-interview/issues/1163)
+- [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)
+- [请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
+- [写一个洗扑克牌的方法](https://github.com/haizlin/fe-interview/issues/1150)
+- [说用原生js实现封装一个选项卡的功能](https://github.com/haizlin/fe-interview/issues/1146)
+- [说下你对柯里化函数(currying)的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1142)
+- [请描述下ajax的请求都有哪些步骤？](https://github.com/haizlin/fe-interview/issues/1138)
+- [用js实现页面局部打印和预览原理是什么呢？同时在IE上有什么不同？](https://github.com/haizlin/fe-interview/issues/1134)
+- [用js实现小写金额转大写的方法](https://github.com/haizlin/fe-interview/issues/1130)
+- [请解释下NaN === NaN的结果](https://github.com/haizlin/fe-interview/issues/1126)
+- [请写出如下代码运行的结果并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1122)
+```javascript
+
+    var type = 'images';
+    var size = {width: 800, height: 600};
+    var format = ['jpg', 'png'];
+
+    function change(type, size, format){
+        type = 'video';
+        size = {width: 1024, height: 768};
+        format.push('map');
+    }
+
+    change(type, size, format);
+
+    console.log(type, size, format);
+
+```
+- [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
+- [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
 - [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
 - [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
 - [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1102)

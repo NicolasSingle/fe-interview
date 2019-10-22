@@ -33,12 +33,13 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.26) —— 第132天
-- [html] [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
-- [css] [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113) 
-- [js] [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
-- [软技能] [你会nodejs吗？说说你运用它的场景](https://github.com/haizlin/fe-interview/issues/1115)
+## 今天的知识点 (2019.10.22) —— 第189天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
+- [css] [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
+- [js] [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
+- [软技能] [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
 
+> 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
 ## 试题分类
@@ -46,7 +47,7 @@
     [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [软技能](category/skill.md)
 
 - 专题（欢迎PR）  
-    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
+    [ECMAScript 34+](category/ECMAScript.md) | [NodeJs](category/nodejs.md) | [jQuery 22+](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
 
 - 工具（敬请期待、欢迎PR）  
     [webpack](tools/webpack.md)
@@ -74,18 +75,18 @@
 
 …………  
 
-- 第130天 (2019.08.24)  
-    - [html] [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
-    - [css] [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
-    - [js] [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
-    - [软技能] [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
+- 第187天 (2019.10.20)
+    - [html] [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
+    - [css] [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
+    - [js] [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
+    - [软技能] [你知道什么是人工智能和机器学习吗？说说你对它们的理解认知](https://github.com/haizlin/fe-interview/issues/1411)
 
-- 第131天 (2019.08.25)  
-    - [html] [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
-    - [css] [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
-    - [js] [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
-    - [软技能] [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
-
+- 第188天 (2019.10.21)
+    - [html] [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
+    - [css] [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
+    - [js] [stopPropagation()和preventDefault()这两个方法有什么区别？](https://github.com/haizlin/fe-interview/issues/1415)
+    - [软技能] [你有听说过“分词”吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1416)
+    
 - **[查看全部](category/history.md)**
 
 ## 怎样学习
@@ -159,6 +160,10 @@
 - 2019.08.18 — 第124天，受到俄罗斯老外的关注并吐槽了一下，原因估计是他看不懂中文吧，虽然也有英文版本，但那英文及排版有望改进。
 - 2019.08.19 — 第125天，本项目又再一次上了github的热门榜，距离上次刚好是50天（在第75天的时候），能帮助到更多的朋友，那就只有坚持吧！
 - 2019.08.21 — 第127天，star数突破5000，github上搜索“前端面试”，按star排行，成功挺进前5，这是6月25日定的小目标，提前完成，继续坚持吧，不忘初心，利他利己，足矣。
+- 2019.09.13 — 今天是更新的第150天，刚好中秋节，农历十五中秋节，是一种巧合，意味着团团圆圆！祝所有朋友幸福健康！
+- 2019.09.18 — 今天一看关注数增加了不少，才发现又一次上了github热门榜，第三次了，看来爱学习的朋友很多！
+- 2019.10.10 — 第四次登上github热门榜，应该是坚持更新的结果，同时项目被[前端网](http://qianduan.cc)收录！
+- 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）
@@ -186,6 +191,10 @@
 * [情封](https://github.com/f2er)（公众号「前端早读课」作者情封）
 * [Nodejs技术栈](https://www.nodejs.red)（公众号「Nodejs技术栈」作者五月君，本文档是作者从事 Node.js Developer 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈。）
 * [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
+* [lucifer](https://github.com/azl397985856/fe-interview) （公众号 「脑洞前端」作者，宇宙最强的前端面试指南）
+* [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分享源码解析，面试经历以及前端技术）
+* [若川](https://github.com/lxchuan12/blog) （公众号 「若川视野」作者，freeCodeCamp杭州社区组织者之一）
+* [qiangdada](https://github.com/xuqiang521/overwrite) （公众号「合格前端」，定期推送一些精选博文，内容包括但不仅限于前端，不定期进行技术直播分享。）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号「前端宇宙」作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
 * [koala](https://github.com/koala-coding/goodBlog)（公众号「程序员成长指北」作者，专注 完整的 Node.js 技术栈分享，从 JavaScript 到 Node.js,再到后端数据库，祝您成为优秀的高级 Node.js 工程师。座右铭：今天未完成的，明天更不会完成。）
@@ -219,4 +228,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://101.201.31.25:10000/?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)

@@ -1,4 +1,4 @@
-# 周汇总 2019.08.25
+# 周汇总 2019.10.13
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
-- [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
-- [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1100)
-- [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
-- [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
-- [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
-- [举例说明table怎么合并行和列的？](https://github.com/haizlin/fe-interview/issues/1083)
+- [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
+- [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
+- [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)
+- [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
+- [HTML5的output是非常棒的一个标签，你对它有了解吗？](https://github.com/haizlin/fe-interview/issues/1375)
+- [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
+- [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
 
 ## css
-- [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
-- [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
-- [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1101) 
-- [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
-- [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
-- [说说你对hasLayout的理解，触发hasLayout的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1089) 
-- [使用纯CSS代码实现动画的暂停与播放](https://github.com/haizlin/fe-interview/issues/1084) 
+- [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
+- [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
+- [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)
+- [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
+- [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
+- [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
+- [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
 
 ## js
-- [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
-- [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
-- [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1102)
-- [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
-- [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
-- [保护js代码的方式有哪些？分别说说他们的原理是什么？](https://github.com/haizlin/fe-interview/issues/1090)
-- [你有用过webRTC吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1085)
+- [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
+- [当用户刷新网页时，js的请求有哪些地方会有缓存处理呢？](https://github.com/haizlin/fe-interview/issues/1405)
+- [onload事件和domcontentloaded哪个先执行呢？](https://github.com/haizlin/fe-interview/issues/1385)
+- [说下你对面向对象的理解](https://github.com/haizlin/fe-interview/issues/1381)
+- [在js中函数返回多个值有哪些方法？](https://github.com/haizlin/fe-interview/issues/1377)
+- [为什么说js是弱类型语言，它的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/1373)
+- [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
 
 ## 软技能
-- [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
-- [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
-- [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1103)
-- [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
-- [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
-- [你有了解opengl吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1091)
-- [说说你对Web App 、Hybrid App和Native App这三者的理解？](https://github.com/haizlin/fe-interview/issues/1086)
+- [你知道什么是人工智能和机器学习吗？说说你对它们的理解认知](https://github.com/haizlin/fe-interview/issues/1411)
+- [你知道什么是PDCA吗？要怎么运用好它呢？](https://github.com/haizlin/fe-interview/issues/1406)
+- [你知道什么是域名备案吗？备案有什么用？可以不备案吗？](https://github.com/haizlin/fe-interview/issues/1386)
+- [你上家公司的接口是怎么管理的？](https://github.com/haizlin/fe-interview/issues/1382)
+- [说说你对AMD、CMD和CommonJS的理解](https://github.com/haizlin/fe-interview/issues/1378)
+- [你知道什么是ECMAScript吗？](https://github.com/haizlin/fe-interview/issues/1374)
+- [你有自己写过爬虫的程序吗？说说你对爬虫和反爬虫的理解？](https://github.com/haizlin/fe-interview/issues/1370)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)
